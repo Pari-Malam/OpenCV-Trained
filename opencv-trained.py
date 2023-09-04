@@ -1,3 +1,5 @@
+# Author: Pari Malam
+
 import cv2
 import numpy as np
 from colorama import init, Fore
